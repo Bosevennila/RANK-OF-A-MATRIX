@@ -22,7 +22,8 @@ print(rank)
 
 ```
 ## Output:
-![image](https://github.com/Bosevennila/RANK-OF-A-MATRIX/assets/144870486/67adddca-37c3-478e-97b8-b53305a10121)
+![image](https://github.com/Bosevennila/RANK-OF-A-MATRIX/assets/144870486/13af2b47-5281-4b1d-97f8-7ef25e11cacc)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
