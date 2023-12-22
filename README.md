@@ -22,7 +22,8 @@ print(rank)
 
 ```
 ## Output:
-![image](https://github.com/Bosevennila/RANK-OF-A-MATRIX/assets/144870486/13af2b47-5281-4b1d-97f8-7ef25e11cacc)
+![image](https://github.com/Bosevennila/RANK-OF-A-MATRIX/assets/144870486/01c3e65a-38de-4185-a05c-af32b32f57b6)
+
 
 
 ## Result:
